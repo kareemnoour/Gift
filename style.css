@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 body {
-    font-family: "Roboto", sans-serif;
     background-color: #000;
     width: 100%;
     height: 100vh;
@@ -147,6 +146,8 @@ button:active {
     align-items: center;
     font-size: 70px;
     display: none;
+    font-weight: bold;
+    font-style: italic;
 }
 .con div{
    margin: 20px 40px;
